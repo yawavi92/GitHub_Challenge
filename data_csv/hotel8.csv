@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+868643648,Ramada by Wyndham Bronx Terminal,2.5,646 Gerard Avenue,Bronx,10451,NY,8.0,Times Square,5.4 miles,$117,Concourse,40.821728,-73.92817,27113864
+360465,DoubleTree by Hilton New York Downtown,4.0,8 Stone St,New York,10004,NY,7.4,Times Square,3.9 miles,$132,Stone Street Historic District,40.70402,-74.01242,3859014
+459006,Hampton Inn Brooklyn Downtown NY,3.0,125 Flatbush Avenue Extension,Brooklyn,11201,NY,8.8,Times Square,4.3 miles,$118,Downtown Brooklyn,40.69537,-73.98408,8026859
+418277,Courtyard by Marriott Newark Downtown,3.0,858 Broad Street,Newark,07102,NJ,8.6,Times Square,9.9 miles,$118,Downtown Newark,40.733562,-74.173296,5370034
+782066368,Aliz Hotel Times Square,4.0,310 W. 40th Street,New York,10018,NY,8.0,Times Square,0.3 miles,$135,Central New York City,40.75614,-73.99173,24408324
+275398,Four Points by Sheraton Manhattan SoHo Village,3.0,66 Charlton St,New York,10013,NY,8.0,Times Square,2.3 miles,$118,Hudson Square,40.72718,-74.00601,1864521
+218485,Four Points by Sheraton Manhattan - Chelsea,3.0,160 W 25th St,New York,10001,NY,7.6,Times Square,0.9 miles,$118,Midtown South,40.745099,-73.994116,973633
+325235,Fairfield Inn by Marriott New York Manhattan/Fifth Avenue,3.0,21 W 37th St,New York,10018,NY,8.2,Times Square,0.4 miles,$118,Midtown,40.751089,-73.984949,2841763
+571290,Four Points By Sheraton New York Downtown,3.5,6 Platt St,New York,10038,NY,7.4,Times Square,3.6 miles,$118,Financial District,40.707479,-74.006247,13400088
+221141,SpringHill Suites by Marriott Newark Liberty International,3.0,652 Us Highway 1 And 9,Newark,07114,NJ,8.2,Times Square,10 miles,$118,Newark,40.708852,-74.171239,1080707
+370576,Sanctuary Hotel New York,4.5,132 West 47th Street,New York,10036,NY,8.2,Times Square,0.2 miles,$119,Theater District,40.758544,-73.983006,4187606
+964792544,Best Western Plus Stadium Inn,2.5,926 Sedgwick Ave,Bronx,10452,NY,8.0,Times Square,5.9 miles,$119,Highbridge,40.83165,-73.93155,30118517
+352605,Hotel Mulberry,3.0,52 Mulberry St,New York,10013,NY,9.0,Times Square,3.0 miles,$129,Chinatown,40.715425,-73.999515,3626825
+639317,DoubleTree by Hilton New York Times Square West,4.0,350 W 40th St,New York,10018,NY,6.8,Times Square,0.4 miles,$141,Central New York City,40.75682,-73.99298,16255092
+1243737152,Wingate by Wyndham Bronx/Haven Park,3.0,2568 Park Avenue,Bronx,10451,NY,8.6,Times Square,4.9 miles,$119,Mott Haven,40.81292,-73.928477,38835536
+264949,"Candlewood Suites Secaucus - Meadowlands, an IHG Hotel",2.5,279 Secaucus Road,Secaucus,07094,NJ,8.6,Times Square,4.0 miles,$119,Secaucus,40.773626,-74.058724,1802752
+126359,"Holiday Inn Express Newark Airport Elizabeth, an IHG Hotel",2.5,1128 Spring Street,Elizabeth,07207,NJ,8.2,Times Square,12 miles,$119,Elizabeth,40.684755,-74.193575,26205
+659207,Hotel Hayden,4.0,127 West 28th Street,New York,10001,NY,7.6,Times Square,0.8 miles,$119,Midtown South,40.746595,-73.991793,17269051
+126913,The New Yorker A Wyndham Hotel,4.0,481 Eighth Ave.,New York,10001,NY,7.8,Times Square,0.5 miles,$119,Garment District,40.75253,-73.993218,41009
+324037,Four Points by Sheraton Midtown-Times Square,3.0,326 W 40th Sreet,New York,10018,NY,8.2,Times Square,0.3 miles,$119,Central New York City,40.756587,-73.992239,2804160
+701084,Elmhurst Hotel,2.5,37-59 81 Street,Jackson Heights,11372,NY,8.2,Times Square,5.3 miles,$119,Queens,40.74802,-73.88494,18659046
+219433,Stewart Hotel,4.0,371 7th Ave,New York,10001,NY,6.8,Times Square,0.7 miles,$129,Midtown,40.74892,-73.99218,758
+341928,Chelsea Pines Inn,2.5,317 West 14th Street,New York,10014,NY,7.8,Times Square,1.5 miles,$119,Meatpacking District,40.740123,-74.003434,7401722
+2140897664,Pestana CR7 Times Square,3.5,338 West 39th Street,New York,10018,NY,8.4,Times Square,0.4 miles,$119,Central New York City,40.755959,-73.993221,66871802
+125480,Eurostars Wall Street,4.0,129 Front Street,New York,10005,NY,7.8,Times Square,3.8 miles,$120,Financial District,40.70523,-74.00638,903465

@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+1556895936,"The Draper, Ascend Hotel Collection",2.5,4-6 West 37th Street,New York,10018,NY,8.6,Times Square,0.5 miles,$105,Midtown,40.750775,-73.984365,48621748
+1079110720,Wingate by Wyndham Long Island City,2.5,38-70 12th Street,Long Island City,11101,NY,8.2,Times Square,2.3 miles,$105,Queens,40.756676,-73.942734,33690960
+621717,Bogart Hotel,2.5,19 Bogart Street,Brooklyn,11206,NY,7.2,Times Square,4.6 miles,$107,East Williamsburg,40.70385,-73.933175,15979647
+2216273504,Blue Bird Inn,2.5,13868 94th Ave,Jamaica,11435,NY,4.6,Times Square,10 miles,$106,Queens,40.697747,-73.810189,69227297
+105932,Hilton Meadowlands,3.5,2 Meadowlands Plaza,East Rutherford,07073,NJ,7.6,Times Square,5.8 miles,$106,East Rutherford,40.806378,-74.076917,3129
+2187668832,Four Points by Sheraton Flushing,3.0,134-37 35th Avenue,Flushing,11354,NY,8.8,Times Square,8.1 miles,$107,Queens,40.764626,-73.832256,68333401
+203630,Fairfield Inn & Suites Newark Liberty International Airport,2.5,618-50 US Highway 1 & 9 South,Newark,07114,NJ,7.8,Times Square,10 miles,$107,Newark,40.70877,-74.17375,867318
+417441,Galaxy Motel,2.0,860 Pennsylvania Avenue,Brooklyn,11207,NY,8.0,Times Square,8.6 miles,$110,East New York,40.656766,-73.889365,5371288
+482976,The Local,2.0,13-02 44th Avenue,Long Island City,11101,NY,8.4,Times Square,2.1 miles,$107,Hunters Point,40.749691,-73.947624,9554294
+122284,Courtyard by Marriott Lyndhurst Meadowlands,3.0,1 Polito Avenue,Lyndhurst,07071,NJ,8.8,Times Square,7.1 miles,$124,Lyndhurst,40.809522,-74.10402,2591
+125197,Wyndham Garden Hotel Newark Airport,3.0,550 Route 1 South,Newark,07114,NJ,5.8,Times Square,11 miles,$107,Newark,40.703253,-74.184575,18469
+310147,"The Carvi Hotel New York, Ascend Hotel Collection",3.0,152 E 55th St,New York,10022,NY,8.8,Times Square,0.9 miles,$107,Sutton Place,40.75917,-73.96926,2459423
+244926,Hotel Mela Times Square,4.0,120 W 44th St,New York,10036,NY,7.8,Times Square,0.1 miles,$107,Theater District,40.756562,-73.984188,1490016
+200301,Comfort Suites Newark - Harrison,2.5,1348 Mccarter Hwy,Newark,07104,NJ,7.8,Times Square,9.4 miles,$108,Newark,40.754952,-74.166608,859293
+1629361344,"Holiday Inn Express Brooklyn - Kings Hwy, an IHG Hotel",2.5,5244 Kings Highway,Brooklyn,11234,NY,6.6,Times Square,8.9 miles,$108,Flatlands,40.637155,-73.926502,50886292
+276847,Brooklyn Motor Inn,2.0,140 Hamilton Ave,Brooklyn,11231,NY,7.2,Times Square,5.3 miles,$110,Brooklyn,40.681829,-74.006136,2219796
+2297166688,Shoreham Hotel - Powered by Jurny,3.0,33 W 55th Street,New York,10019,NY,7.8,Times Square,0.6 miles,$109,Central Park South,40.762515,-73.976375,71755209
+2179148928,Best Western Plus City Line Hotel,2.5,156 Bruckner Blvd,Bronx,10454,NY,7.0,Times Square,4.7 miles,$109,Port Morris,40.803162,-73.919128,68067154
+1130365600,The Vue Inn Brooklyn,2.5,73 Mother Gaston Blvd,Brooklyn,11233,NY,6.4,Times Square,6.8 miles,$114,Ocean Hill,40.67889,-73.907888,35292675
+139959,Washington Jefferson Hotel,3.5,318 W 51st St,New York,10019,NY,7.6,Times Square,0.4 miles,$119,Midtown West,40.763445,-73.986874,202813
+107364,Airway Inn at LaGuardia,2.0,82-20 Astoria Blvd,East Elmhurst,11370,NY,4.6,Times Square,5.2 miles,$109,Queens,40.764396,-73.886971,20237
+197724,"Holiday Inn Express Hotel & Suites Meadowlands Area, an IHG Hotel",2.5,100 Paterson Plank Road,Carlstadt,07072,NJ,8.0,Times Square,7.2 miles,$102,Carlstadt,40.83137,-74.084441,799413
+312654,Hilton Garden Inn Ridgefield Park,3.0,70 Challenger Road,Ridgefield Park,07660,NJ,8.4,Times Square,6.7 miles,$109,Ridgefield Park,40.851638,-74.013008,2602829
+140893,The Belvedere Hotel,3.5,319 W 48th St,New York,10036,NY,8.6,Times Square,0.3 miles,$109,Midtown West,40.761527,-73.988162,104193
+658840,Park West Hotel,3.0,465 Central Park West,New York,10025,NY,6.2,Times Square,3.3 miles,$109,Manhattan Valley,40.79974,-73.95889,17319826

@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+231257,Comfort Inn & Suites LaGuardia Airport,2.5,60-30 Maurice Ave,Maspeth,11378,NY,7.6,Times Square,4.7 miles,$88,Queens,40.729099,-73.905052,1209275
+1940716032,Magna Hotel,2.5,147-16 97th Ave,Jamaica,11435,NY,5.6,Times Square,10 miles,$96,Queens,40.697404,-73.805123,60616126
+741091712,TRYP by Wyndham Newark Downtown,3.0,24 East Park Street,Newark,07102,NJ,7.8,Times Square,9.6 miles,$96,Newark Central Business District,40.7382,-74.16801,23127866
+638509568,Redford Hotel,3.5,136 Ludlow Street,New York,10002,NY,6.6,Times Square,2.6 miles,$96,Lower East Side,40.7203,-73.98797,19922174
+589913,Heritage Hotel,2.5,18 West 25th Street,New York,10010,NY,7.8,Times Square,1.0 mile,$97,Midtown South,40.743375,-73.989991,15040315
+1327544800,Hotel Key LaGuardia Airport,3.0,33-53 Farrington St,Flushing,11354,NY,5.8,Times Square,8.1 miles,$97,Queens,40.765348,-73.831755,41454525
+2131289504,Alden Hotel,0.0,2008 Webster Ave,Bronx,10457,NY,5.8,Times Square,7.9 miles,$98,West Bronx,40.850242,-73.899037,66571547
+606285,Hillside Hotel,2.5,140-17 Queens Blvd,Jamaica,11435,NY,5.2,Times Square,9.7 miles,$97,Queens,40.703648,-73.815037,15510625
+200709,Best Western Fort Lee,2.5,2300 Route 4,Fort Lee,07024,NJ,7.4,Times Square,7.4 miles,$98,Fort Lee,40.86477,-73.97358,43171
+582724640,Days Inn by Wyndham Brooklyn Marine Park,2.5,1766 East 49th Street,Brooklyn,11234,NY,6.8,Times Square,10 miles,$98,Flatlands,40.61773,-73.92796,18178895
+452803,Ramada by Wyndham Flushing Queens,2.0,3627 Prince St,Flushing,11354,NY,7.4,Times Square,8.0 miles,$98,Flushing Chinatown,40.761535,-73.832919,7678509
+163766,Belnord Hotel,2.5,209 West 87th Street,New York,10024,NY,8.4,Times Square,2.2 miles,$99,Upper West Side,40.788722,-73.975343,1060276
+856416768,Madison LES Hotel,3.0,154 Madison Street,New York,10002,NY,7.8,Times Square,3.1 miles,$110,Two Bridges,40.71221,-73.99269,26731774
+1178840544,GLo Best Western Brooklyn NYC,3.0,850 4th Ave,Brooklyn,11232,NY,8.0,Times Square,6.9 miles,$98,Greenwood,40.657614,-74.001456,36807517
+407437,Sleep Inn JFK Airport Rockaway Blvd,2.5,153-75 Rockaway Blvd,Jamaica,11434,NY,7.0,Times Square,12 miles,$99,Rochdale,40.668822,-73.781793,5061708
+1107479648,The Vue Hotel Express,2.5,536 39th St,Brooklyn,11232,NY,5.4,Times Square,7.4 miles,$99,Sunset Park,40.65046,-74.003089,34577489
+199634,Extended Stay America Suites Elizabeth Newark Airport,2.5,45 International Blvd.,Elizabeth,07021,NJ,6.0,Times Square,12 miles,$99,Elizabeth,40.663548,-74.176076,889197
+630803872,Pod Times Square,3.0,400 W 42nd Street,New York,10036,NY,8.6,Times Square,0.4 miles,$95,Central New York City,40.758563,-73.992993,19681371
+133946,Howard Johnson Hotel by Wyndham Newark Airport,2.0,20 Frontage Rd,Newark,07114,NJ,6.6,Times Square,9.5 miles,$99,Newark,40.7104,-74.15603,14035
+2208107968,Hotel Henny,2.0,505 W 181st St,New York,10033,NY,6.2,Times Square,6.9 miles,$99,Washington Heights,40.848532,-73.93131,68972124
+351674,Jets Motor Inn,2.0,13906 Queens Blvd,Jamaica,11435,NY,5.4,Times Square,9.5 miles,$99,Briarwood,40.706314,-73.816845,3747926
+205448,Extended Stay America Suites Secaucus Meadowlands,2.5,1 Meadowlands Pkwy,Secaucus,07094,NJ,7.4,Times Square,5.0 miles,$100,Secaucus,40.799919,-74.064383,894450
+206486,Days Hotel by Wyndham North Bergen /NYC Area,2.5,2600 Tonnelle Ave,North Bergen,07047,NJ,6.6,Times Square,3.1 miles,$100,North Bergen,40.773201,-74.041737,1120107
+582226,LIC Hotel,3.5,44-04 21st Street,Long Island City,11101,NY,8.8,Times Square,2.1 miles,$94,Hunters Point,40.749384,-73.946776,14840379
+455782,Leon Hotel LES,3.5,125 Canal Street,New York,10002,NY,8.2,Times Square,2.9 miles,$104,Chinatown,40.716034,-73.995221,8057314

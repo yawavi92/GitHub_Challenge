@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+1180513504,Hotel Scherman,3.0,346 W 46th St,New York,10036,NY,9.2,Times Square,0.3 miles,$129,Midtown West,40.760323,-73.989775,36859797
+634082112,SoHo 54 Hotel,3.0,54 Watts St,New York,10013,NY,7.2,Times Square,2.5 miles,$109,Hudson Square,40.72379,-74.00531,19783816
+292787,The Hotel @ Fifth Avenue,3.5,17 West 32nd St,New York,10001,NY,7.4,Times Square,0.7 miles,$109,Koreatown,40.74777,-73.98655,28291
+1478700992,TBA Times Square,3.5,340 West 40th Street,New York,10018,NY,7.2,Times Square,0.3 miles,$115,Central New York City,40.756575,-73.992661,46178156
+449880,Colonial House Inn,3.0,318 West 22nd Street,New York,10011,NY,8.4,Times Square,1.1 miles,$109,Chelsea,40.745034,-73.999937,7431828
+196845,Hilton Garden Inn Secaucus/Meadowlands,3.0,875 State Route 3 East Service Road,Secaucus,07094,NJ,8.2,Times Square,3.6 miles,$114,Secaucus,40.781861,-74.047772,17873
+116043,Fairfield Inn by Marriott East Rutherford Meadowlands,2.5,850 Paterson Plank Road,East Rutherford,07073,NJ,8.4,Times Square,7.1 miles,$110,East Rutherford,40.828784,-74.083658,40824
+272124,"Holiday Inn New York City - Wall Street, an IHG Hotel",3.0,51 Nassau St.,New York,10038,NY,7.2,Times Square,3.6 miles,$110,Financial District,40.708905,-74.009089,2202045
+265134,Ravel Hotel Trademark Collection by Wyndham,4.0,8-08 Queens Plaza South,Long Island City,11101,NY,7.8,Times Square,2.0 miles,$110,Hunters Point,40.754088,-73.949056,1880311
+524314272,Comfort Inn & Suites near Stadium,2.5,2477 3rd Ave,Bronx,10451,NY,7.8,Times Square,4.7 miles,$107,Mott Haven,40.80998,-73.92939,16353571
+474689,Fairfield Inn New York Manhattan/Financial District,3.0,161 Front Street,New York,10038,NY,8.0,Times Square,3.7 miles,$118,Financial District,40.706016,-74.005178,8370299
+2228899712,Best Western Premier Empire State Hotel,3.0,16 E 30th St,New York,10016,NY,8.6,Times Square,0.8 miles,$114,NoMad,40.745368,-73.985509,69621866
+244885,Ramada by Wyndham East Orange,2.0,120 Evergreen Pl,East Orange,07018,NJ,5.2,Times Square,12 miles,$110,East Orange,40.7622,-74.22193,40199
+467239,Q4 Hotel,2.0,29-09 Queens Plaza North,Long Island City,11101,NY,8.2,Times Square,2.6 miles,$110,Queens,40.749815,-73.937584,7001777
+124705,"Robert Treat Hotel, BW Premier Collection",3.0,50 Park Pl,Newark,07102,NJ,7.0,Times Square,9.6 miles,$110,Newark Central Business District,40.73894,-74.16885,536232
+674919,"Distrikt Hotel New York City, Tapestry Collection by Hilton",4.0,342 West 40th Street,New York,10018,NY,8.0,Times Square,0.4 miles,$115,Central New York City,40.75661,-73.99285,17739739
+454244,Hilton Garden Inn New York-Times Square Central,3.0,136 West 42nd Street,New York,10036,NY,8.2,Times Square,0.1 miles,$110,Theater District,40.755456,-73.985607,7428464
+633391872,The Allen Hotel,3.5,88 Allen Street,New York,10002,NY,8.8,Times Square,2.7 miles,$125,Lower East Side,40.71807,-73.99065,19762246
+693091,Hilton Garden Inn NYC Financial Center/Manhattan Downtown,3.0,6 Water St,New York,10004,NY,8.8,Times Square,4.0 miles,$118,Financial District,40.70296,-74.01226,18113315
+220703,Courtyard by Marriott Newark Liberty International Airport,3.0,600 Routes 1 and 9 South,Newark,07114,NJ,8.2,Times Square,10 miles,$110,Newark,40.708702,-74.172607,24706
+417594,"Hotel Indigo BROOKLYN, an IHG Hotel",3.5,229 Duffield St,Brooklyn,11201,NY,6.4,Times Square,4.6 miles,$110,Downtown Brooklyn,40.691236,-73.984343,5366162
+357240,Ramada by Wyndham Staten Island,2.5,535 N Gannon Ave,Staten Island,10314,NY,6.8,Times Square,13 miles,$110,Willowbrook,40.608407,-74.146609,3844157
+218221,Best Western Jamaica Inn,2.5,8707 Van Wyck Expy,Jamaica,11435,NY,7.2,Times Square,9.5 miles,$109,Briarwood,40.705738,-73.817533,1000446
+150387,Millennium Hotel Broadway Times Square,4.0,145 W 44th St,New York,10036,NY,7.0,Times Square,0.1 miles,$111,Theater District,40.756889,-73.984902,25449
+203455,Fairfield Inn by Marriott LaGuardia Airport/Flushing,2.5,2866 College Point Blvd,Flushing,11354,NY,8.2,Times Square,7.5 miles,$111,Queens,40.77146,-73.84408,1293280

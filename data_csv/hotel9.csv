@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+1779580224,"Holiday Inn Express Jamaica - JFK AirTrain - NYC, an IHG Hotel",2.5,97-18 SUTPHIN BLVD,Jamaica,11435,NY,6.8,Times Square,10 miles,$120,Queens,40.696811,-73.805483,55580632
+476695,Hotel Bliss,2.5,2330 Linden Boulevard,Brooklyn,11208,NY,7.2,Times Square,8.6 miles,$120,East New York,40.664224,-73.877308,9202640
+413222,Comfort Inn Manhattan - Midtown West,2.5,548 W 48th Street,New York,10036,NY,7.2,Times Square,0.7 miles,$124,Hell's Kitchen,40.764273,-73.994806,5232871
+646278,Corona Hotel,2.5,112-23 Roosevelt Avenue,Corona,11368,NY,6.4,Times Square,6.9 miles,$124,Queens,40.75244,-73.85379,4208989
+204381,Hilton Hasbrouck Heights/Meadowlands,3.5,650 Terrace Ave,Hasbrouck Heights,07604,NJ,7.8,Times Square,8.9 miles,$121,Hasbrouck Heights,40.87231,-74.06221,643
+1128495008,Wingate by Wyndham New York Midtown South/5th Ave,2.5,11 West 37th St,New York,10018,NY,8.4,Times Square,0.5 miles,$122,Midtown,40.7509,-73.9841,35234219
+108294,DoubleTree by Hilton Fort Lee - George Washington Bridge,4.0,2117 Route 4 Eastbound,Fort Lee,07024,NJ,7.6,Times Square,7.1 miles,$121,Fort Lee,40.860527,-73.975937,40817
+457060,Hilton Garden Inn New York/Midtown Park Ave,3.0,45 E 33rd St,New York,10016,NY,8.4,Times Square,0.8 miles,$123,Manhattan,40.746662,-73.982421,7946632
+976004128,Home2 Suites by Hilton Newark Airport,3.0,620 Route 1 and 9 South,Newark,7114,NJ,7.8,Times Square,10 miles,$123,Newark,40.709424,-74.171763,30468879
+202198,The Duffy Times Square by Kasa,3.5,414 W 46th St,New York,10036,NY,9.4,Times Square,0.4 miles,$124,Midtown West,40.76117,-73.99117,661794
+163194,The Gallivant Times Square,3.5,234 48Th Street,New York,10036,NY,6.8,Times Square,0.2 miles,$124,Theater District,40.760997,-73.986328,5086
+444302,Radio City Apartments,3.5,142 West 49th Street,New York,10019,NY,8.8,Times Square,0.3 miles,$125,Theater District,40.760083,-73.982871,6842904
+531096,Hampton Inn Manhattan/Times Square Central,3.5,220 West 41st St.,New York,10036,NY,8.8,Times Square,0.2 miles,$153,Central New York City,40.755823,-73.988581,10961545
+532228,"Holiday Inn Brooklyn Downtown, an IHG Hotel",3.5,300 Schermerhorn Road,Brooklyn,11217,NY,7.2,Times Square,4.8 miles,$125,Boerum Hill,40.687586,-73.982553,9303573
+118534,Courtyard by Marriott Secaucus Meadowlands,3.0,455 Harmon Meadow Boulevard,Secaucus,07094,NJ,8.8,Times Square,3.8 miles,$125,Secaucus,40.789422,-74.044473,14089
+198706,City Club Hotel,4.0,55 W 44th St,New York,10036,NY,8.0,Times Square,0.2 miles,$125,Midtown,40.755772,-73.982292,807855
+614649344,Hyatt Place Long Island City/New York City,3.0,2707 43rd Ave,Long Island City,11101,NY,8.6,Times Square,2.4 miles,$125,Hunters Point,40.74817,-73.94127,19176542
+339951,Sheraton Brooklyn New York Hotel,4.0,228 Duffield Street,Brooklyn,11201,NY,7.6,Times Square,4.5 miles,$125,Downtown Brooklyn,40.6916,-73.98436,3360610
+292800,The Hotel @ Times Square,3.0,59 West 46th Street,New York,10036,NY,7.8,Times Square,0.3 miles,$125,Midtown,40.75727,-73.98118,4608
+525894624,Aloft Long Island City - Manhattan View,3.0,27-45 Jackson Ave,Long Island City,11101,NY,8.2,Times Square,2.5 miles,$139,Hunters Point,40.74844,-73.93984,16402957
+106930,Hilton Garden Inn Times Square,3.0,790 Eighth Ave.,New York,10019,NY,8.4,Times Square,0.3 miles,$126,Midtown West,40.76112,-73.98695,15987
+2130163136,Henn na Hotel New York,3.0,235 W 35th St,New York,10001,NY,8.6,Times Square,0.4 miles,$127,Garment District,40.752362,-73.991294,66536348
+348082,Best Western Plus Arena Hotel,2.5,1324 Atlantic Ave,Brooklyn,11216,NY,7.6,Times Square,5.8 miles,$93,Brooklyn,40.678291,-73.948574,3621690
+448797,The Lex NYC,3.5,67 Lexington Avenue,New York,10010,NY,8.4,Times Square,1.2 miles,$127,Flatiron District,40.740169,-73.984262,7275034
+360006,Fairfield Inn & Suites by Marriott New York Brooklyn,2.5,181 3rd Ave,Brooklyn,11217,NY,8.0,Times Square,5.3 miles,$127,Gowanus,40.680547,-73.983932,3900459

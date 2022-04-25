@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+258374,Hampton Inn & Suites Staten Island,2.5,1120 South Ave,Staten Island,10314,NY,8.4,Times Square,14 miles,$127,Bloomfield,40.613077,-74.178852,1747244
+198622,Renaissance Newark Airport Hotel,4.0,1000 Spring St,Elizabeth,07201,NJ,8.2,Times Square,12 miles,$127,Elizabeth,40.68192,-74.1941,807851
+559259616,Fairfield Inn & Suites New York Queens/Fresh Meadows,2.5,183-31 Horace Harding Expy,Fresh Meadows,11365,NY,8.2,Times Square,10 miles,$128,Auburndale,40.739936,-73.791217,17445613
+120829,Royalton New York,4.5,44 W 44th St,New York,10036,NY,8.4,Times Square,0.2 miles,$144,Midtown,40.755706,-73.982164,8989
+117112, Hotel Edison Times Square,4.0,228 W 47th St,New York,10036,NY,7.8,Times Square,0.2 miles,$129,Theater District,40.759797,-73.986025,6260
+1861196480,"Holiday Inn Express & Suites Woodside Queens NYC, an IHG Hotel",2.5,64 10 QUEENS BOULEVARD,Woodside,11377,NY,9.2,Times Square,4.6 miles,$132,Queens,40.741134,-73.901352,58131140
+365654,Fairfield Inn & Suites by Marriott New York ManhattanChelsea,2.5,116 W 28th St,New York,10001,NY,7.6,Times Square,0.8 miles,$129,Midtown South,40.746377,-73.991344,4002216
+1133966720,Lic Plaza Hotel,2.5,40-36 27th St,Long Island City,11101,NY,8.8,Times Square,2.5 miles,$129,Queens,40.752437,-73.938082,35405210
+1183170208,Courtyard by Marriott New York Downtown Manhattan/Financial District,3.0,215 PEARL STREET,New York,10038,NY,7.4,Times Square,3.6 miles,$131,Financial District,40.707117,-74.006275,36942819
+235899,Courtyard by Marriott New York Manhattan/Upper East Side,3.0,410 E 92nd St,New York,10128,NY,8.2,Times Square,2.6 miles,$129,Upper East Side,40.780392,-73.945881,1312663
+638073056,Pod Brooklyn,3.0,247 Metropolitan Avenue,Brooklyn,11211,NY,8.8,Times Square,3.2 miles,$139,Williamsburg,40.71513,-73.959,19908533
+679739,Hilton Garden Inn New York Times Square South,3.0,326 W 37th St,New York,10018,NY,8.8,Times Square,0.4 miles,$149,Central New York City,40.75447,-73.99357,17432204
+266211,"Holiday Inn Manhattan 6th Ave - Chelsea, an IHG Hotel",3.0,125 W 26th St,New York,10001,NY,7.2,Times Square,0.9 miles,$130,Midtown South,40.745274,-73.992451,1721844
+430306,Best Western Premier Herald Square,3.0,50 W 36th St,New York,10018,NY,8.4,Times Square,0.5 miles,$130,Midtown,40.750525,-73.985563,5981093
+930642176,"Staypineapple, An Artful Hotel, Midtown",3.0,337 W 36th Street,New York,10018,NY,9.0,Times Square,0.5 miles,$130,Central New York City,40.75435,-73.99391,29051318
+640601568,Fairfield Inn & Suites New York Downtown Manhattan / World Trade Center Area,3.0,100 Greenwich St,New York,10006,NY,8.6,Times Square,3.7 miles,$131,Financial District,40.70828,-74.0136,19987549
+202199,Fairfield Inn by Marriott JFK Airport,3.0,156 08 Rockaway Blvd,Jamaica,11434,NY,8.4,Times Square,13 miles,$127,Queens,40.66667,-73.77991,863898
+1924232192,SpringHill Suites by Marriott East Rutherford Meadowlands/Carlstadt,2.5,192 PATERSON PLANK ROAD,Carlstadt,07072,NJ,9.2,Times Square,6.5 miles,$131,Carlstadt,40.824074,-74.073073,60101006
+127113,Sheraton Lincoln Harbor Hotel,3.5,500 Harbor Boulevard,Weehawken,07086,NJ,8.0,Times Square,2.0 miles,$140,Weehawken,40.759113,-74.023516,11325
+982577600,Fairfield Inn & Suites New York Manhattan/Times Square South,2.5,338 West 36th Street,New York,10018,NY,8.2,Times Square,0.5 miles,$127,Central New York City,40.75402,-73.99402,30674300
+982577440,SpringHill Suites by Marriott New York Manhattan/Times Square South,3.5,338 West 36th Street,New York,10018,NY,8.0,Times Square,0.5 miles,$127,Central New York City,40.75402,-73.99402,30674295
+528352,"Holiday Inn New York City - Times Square, an IHG Hotel",3.5,585 8th Ave,New York,10018,NY,8.2,Times Square,0.3 miles,$127,Garment District,40.755053,-73.99142,9988473
+143951,Bentley Hotel,4.0,500 E 62nd St,New York,10065,NY,7.2,Times Square,1.5 miles,$132,Central Park South,40.76055,-73.95833,84619
+616702,Home2 Suites by Hilton Hasbrouck Heights,3.0,377 Route 17 South,Hasbrouck Heights,07604,NJ,9.0,Times Square,8.4 miles,$132,Hasbrouck Heights,40.862652,-74.065619,15438766
+273466,Hampton Inn Manhattan/Times Square South,2.5,337 West 39th Street,New York,10018,NY,7.6,Times Square,0.4 miles,$132,Central New York City,40.756107,-73.992997,2211934
