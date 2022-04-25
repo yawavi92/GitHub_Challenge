@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+634418464,31 Street Broadway Hotel,2.0,38 West 31st Street,New York,10001,NY,5.4,Times Square,0.7 miles,$30,NoMad,40.74725,-73.98776,19794327
+888087936,Voyage Hotel,2.0,37-10 11th Street,Long Island City,11101,NY,5.2,Times Square,2.4 miles,$58,Queens,40.75961,-73.94114,27721498
+2138348032,Hotel 21 Nyc,2.5,41-01 21st St,Long Island City,11101,NY,6.6,Times Square,2.3 miles,$61,Queens,40.75368,-73.942342,66792126
+2277450880,Hotel The Villa,2.5,38-22 11th St,Long Island City,11101,NY,8.0,Times Square,2.3 miles,$61,Queens,40.757963,-73.942289,71139090
+2253391488,Capital Hotel,2.0,38-26 11th Street,Long Island City,11101,NY,8.0,Times Square,2.3 miles,$70,Queens,40.75783,-73.942401,70387234
+323646,Royal Stay Hotel,2.0,3830 Crescent St,Long Island City,11101,NY,5.0,Times Square,2.6 miles,$63,Queens,40.755131,-73.93652,2784171
+260158,"Red Carpet Inn Newark Irvington, NJ",2.0,100 Union Avenue,Irvington,07111,NJ,5.8,Times Square,13 miles,$62,Irvington,40.723269,-74.231831,1768627
+1557556992,Lotus BLU Inn & Suites,2.5,23-15  39th Ave,Long Island City,11101,NY,8.0,Times Square,2.5 miles,$64,Queens,40.755555,-73.937661,48642406
+1168574848,Manhattan View Hotel,2.5,37-35 21st Street,Long Island City,11101,NY,7.6,Times Square,2.5 miles,$63,Queens,40.7577,-73.9385,36486714
+536312,Hotel Shocard at Times Square,3.0,206 West 41st Street,New York,10036,NY,7.6,Times Square,0.2 miles,$84,Central New York City,40.755533,-73.987951,11556809
+425346,Bowery Grand Hotel,1.0,143 Bowery,New York,10002,NY,5.2,Times Square,2.7 miles,$67,Bowery,40.719014,-73.994535,5660562
+322856,Travelodge by Wyndham Ozone Park,2.5,137-30 Redding St,Ozone Park,11417,NY,8.6,Times Square,9.5 miles,$67,Queens,40.671871,-73.844211,2768276
+129007,Super 8 by Wyndham Meadowlands,2.0,395 Washington Avenue,Carlstadt,07072,NJ,6.2,Times Square,5.9 miles,$68,Carlstadt,40.819565,-74.063805,16026
+525386,Flushing Hotel,2.5,36-38 Main Street,Flushing,11354,NY,5.4,Times Square,8.1 miles,$68,Flushing Chinatown,40.762101,-73.831465,11110859
+468906,The Central Park North,2.5,137 W 111th street,New York,10026,NY,6.8,Times Square,3.4 miles,$69,Central Park North,40.799464,-73.9535,8731737
+1557566528,The Williams Hotel,2.5,272 Williams Ave,Brooklyn,11207,NY,7.2,Times Square,7.6 miles,$70,East New York,40.669295,-73.899277,48642704
+496002,Rodeway Inn Near JFK Airport,2.0,136-05 Cranston Street,Jamaica,11434,NY,5.6,Times Square,12 miles,$70,Rochdale,40.668131,-73.783363,9793713
+668894,La Quinta Inn & Suites by Wyndham Brooklyn Central,2.5,1229 Atlantic Avenue,Brooklyn,11216,NY,6.6,Times Square,5.8 miles,$77,Bedford-Stuyvesant,40.678621,-73.95015,17272638
+2103940320,Astoria Delancy Inn & Suites,0.0,37-11 23rd St,Long Island City,11101,NY,8.0,Times Square,2.6 miles,$73,Queens,40.757245,-73.936374,65716885
+241871,Red Lion Inn & Suites Long Island City,2.5,42-24  Crescent St,Long Island City,11101,NY,7.4,Times Square,2.4 miles,$71,Hunters Point,40.749944,-73.941204,970529
+278784,Knights Inn Brooklyn Sunset Park,1.5,820 39th Street,Brooklyn,11232,NY,5.8,Times Square,7.6 miles,$80,Sunset Park,40.647013,-73.996898,2369850
+2244341088,Phoenix Hotel,2.5,517 39th St,Brooklyn,11232,NY,5.8,Times Square,7.4 miles,$71,Sunset Park,40.651073,-74.003259,70104409
+140899,Americana Inn,2.0,69 W 38th St,New York,10018,NY,6.6,Times Square,0.4 miles,$73,Midtown,40.752145,-73.985567,41194
+496013,Pitkin Hotel,2.5,95 Chester Street,Brooklyn,11212,NY,3.0,Times Square,7.2 miles,$72,Brownsville,40.669303,-73.911596,10082041
+140901,Hotel Newton,3.0,2528 Broadway,New York,10025,NY,8.0,Times Square,2.6 miles,$72,Upper West Side,40.79369,-73.97239,118505

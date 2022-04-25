@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+2355181408,Ozone Inn & Suites,2.0,137-08 Redding St,Ozone Park,11417,NY,6.2,Times Square,9.5 miles,$80,Queens,40.672172,-73.844126,73568169
+339969,La Quinta Inn & Suites by Wyndham Brooklyn Downtown,2.5,533 3rd Ave,Brooklyn,11215,NY,7.4,Times Square,6.1 miles,$89,Gowanus,40.668824,-73.993224,3378195
+471886,Days Inn by Wyndham Brooklyn Borough Park,3.0,1118 36th St,Brooklyn,11218,NY,7.0,Times Square,7.8 miles,$89,Borough Park,40.644301,-73.987902,8411481
+212041,Best Western Queens Court Hotel,2.5,133-51 39th Avenue,Flushing,11354,NY,7.4,Times Square,8.3 miles,$95,Flushing Chinatown,40.76086,-73.82807,885800
+719459936,Hotel Ninety Five,2.5,145-07 95th Avenue,Jamaica,11435,NY,4.6,Times Square,10 miles,$90,Queens,40.69839,-73.80715,22451873
+134540,Pod 51,3.0,230 E 51st St,New York,10022,NY,8.0,Times Square,0.9 miles,$90,Turtle Bay,40.755889,-73.968987,5358
+424368192,Grandview Hotel New York,2.5,3106 Linden Place,Flushing,11354,NY,8.6,Times Square,8.1 miles,$102,Queens,40.769176,-73.832499,13230256
+581922,Green Holidays Apartments,3.0,38 West 31st Street,New York,10001,NY,7.4,Times Square,0.7 miles,$92,Koreatown,40.747301,-73.98775,14847662
+2098260640,Brooklyn Broadway Hotel,2.5,1090 Myrtle Ave,Brooklyn,11206,NY,6.6,Times Square,4.9 miles,$92,Bedford-Stuyvesant,40.696519,-73.937135,65539395
+1900493088,The Baltic Hotel,2.5,489 Baltic St,Brooklyn,11217,NY,6.4,Times Square,5.2 miles,$96,Brooklyn,40.682584,-73.985528,59359159
+2178567232,"Holiday Inn Express NYC Brooklyn - Sunset Park, an IHG Hotel",2.5,833 39th Street,Brooklyn,11232,NY,6.6,Times Square,7.7 miles,$84,Sunset Park,40.646768,-73.996137,68048976
+1559326976,"Brooklyn Vybe Hotel, Ascend Hotel Collection",2.5,1024 Flatbush Avenue,Brooklyn,11226,NY,5.2,Times Square,7.8 miles,$93,Ditmas Park,40.646005,-73.958273,48697718
+358935,"Vista LIC Hotel, BW Premier Collection",3.5,27-05 39th Avenue,Long Island City,11101,NY,8.4,Times Square,2.6 miles,$93,Queens,40.754351,-73.935923,3887116
+400299,Wyndham Garden Long Island City,3.5,44-29 9th Street,Long Island City,11101,NY,7.4,Times Square,1.9 miles,$93,Hunters Point,40.749821,-73.952007,4790046
+630346,Hotel RL Brooklyn,3.0,1080 Broadway,Brooklyn,11221,NY,7.4,Times Square,5.2 miles,$98,Bedford-Stuyvesant,40.69429,-73.93105,16241516
+218905,Days Inn by Wyndham Brooklyn,2.0,437 39th Street,Brooklyn,11232,NY,5.8,Times Square,7.3 miles,$93,Sunset Park,40.652038,-74.005174,1043575
+109033,Howard Johnson by Wyndham Clifton NJ,2.0,680 Route 3 West,Clifton,07012,NJ,6.0,Times Square,10 miles,$94,Clifton,40.83517,-74.150047,562
+193622,Best Western Plus Newark Airport West,2.5,101 International Way,Newark,07114,NJ,7.2,Times Square,11 miles,$94,Newark,40.70545,-74.18711,607158
+2272556704,East  New York Inn,2.5,2473 ATLANTIC AVE,Brooklyn,11207,NY,4.6,Times Square,7.1 miles,$94,Cypress Hills,40.676167,-73.903115,70986147
+240327,Econo Lodge Times Square,2.5,302 W 47th St,New York,10036,NY,6.6,Times Square,0.2 miles,$85,Midtown West,40.760582,-73.987887,1439159
+2205537536,Super 8 by Wyndham Brooklyn Williamsburg,2.5,193 COOK ST,Brooklyn,11206,NY,7.4,Times Square,4.6 miles,$94,East Williamsburg,40.7032,-73.935138,68891798
+2137400576,"Holiday Inn Express Brooklyn - Bushwick, an IHG Hotel",2.5,1200 Broadway,Brooklyn,11221,NY,7.6,Times Square,5.5 miles,$94,Bedford-Stuyvesant,40.692107,-73.92713,66762518
+164868,Extended Stay America Suites Meadowlands East Rutherford,2.5,300 State Highway Route 3 East,East Rutherford,07073,NJ,5.4,Times Square,5.7 miles,$94,East Rutherford,40.805768,-74.075512,284393
+246640,U Hotel Fifth Avenue,3.0,373 5th Ave,New York,10016,NY,7.8,Times Square,0.6 miles,$95,Midtown,40.74918,-73.98403,1551373
+262892,Extended Stay America Suites Meadowlands Rutherford,2.5,"750 Edwin L. Ward, Sr. Memorial Hwy.",Rutherford,07073,NJ,6.6,Times Square,6.7 miles,$94,Rutherford,40.809723,-74.094811,456381

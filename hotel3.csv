@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+134388,Row NYC,4.0,700 8th Avenue,New York,10036,NY,7.0,Times Square,0.2 miles,$86,Theater District,40.75905,-73.98844,25033
+127179,Red Roof Inn PLUS+ Secaucus - Meadowlands - NYC,2.5,15 Meadowlands Parkway,Secaucus,07094,NJ,7.0,Times Square,5.0 miles,$88,Secaucus,40.798078,-74.066117,21827
+107111,"Holiday Inn Hasbrouck Heights-Meadowlands, an IHG Hotel",3.0,283 State Route 17,Hasbrouck Heights,07604,NJ,7.8,Times Square,8.3 miles,$86,Hasbrouck Heights,40.860463,-74.066934,23056
+214937,Quality Suites NYC Gateway,2.5,1200 Tonnelle Ave,North Bergen,07047,NJ,7.2,Times Square,3.3 miles,$88,North Bergen,40.763955,-74.047885,914269
+2374144064,Deluxe Inn & Suites - Long Island City NYC,2.5,38-43 12th St,Long Island City,11101,NY,8.0,Times Square,2.3 miles,$86,Queens,40.756923,-73.941625,74160752
+326948,Best Western Plus Plaza Hotel,2.5,3934 21st Street,Long Island City,11101,NY,8.4,Times Square,2.4 miles,$89,Queens,40.755721,-73.940793,2935946
+292875,OYO Times Square,4.0,157 West 47th Street,New York,10036,NY,6.6,Times Square,0.2 miles,$88,Theater District,40.758975,-73.984045,6697
+2140577984,Casa Blanca Hotel Brooklyn,2.5,143 Park Ave,Brooklyn,11205,NY,5.4,Times Square,4.3 miles,$88,Fort Greene,40.696446,-73.973888,66861812
+922499616,GWB Hotel,2.5,1996 Webster Ave,Bronx,10457,NY,5.2,Times Square,7.9 miles,$88,West Bronx,40.85008,-73.89925,28796863
+379236,Cresthaven Inn JFK,2.5,177-08 Liberty Ave,Jamaica,11433,NY,8.0,Times Square,11 miles,$88,Queens,40.70545,-73.782584,4395075
+1247865248,La Quinta Inn and Suites by Wyndham Long Island City,2.5,9 02 38th Ave,Long Island City,11101,NY,8.4,Times Square,2.3 miles,$88,Queens,40.7586,-73.94265,38964539
+582725312,Microtel Inn by Wyndham Long Island City,2.5,2912 40th Ave,Long Island City,11101,NY,8.2,Times Square,2.8 miles,$88,Queens,40.751691,-73.934041,18178916
+201844,Super 8 by Wyndham North Bergen NJ/NYC Area,2.0,2800 Columbia Ave,North Bergen,07047,NJ,7.0,Times Square,3.0 miles,$88,North Bergen,40.77487,-74.038477,856099
+260469,The Ridge Hotel,3.0,151 East Houston Street,New York,10002,NY,7.8,Times Square,2.4 miles,$89,Bowery,40.72287,-73.9894,1784927
+486518,Bklyn House,2.5,9 Beaver Street,Brooklyn,11206,NY,7.8,Times Square,4.6 miles,$89,Bushwick,40.700829,-73.939486,9711491
+205823,Knights Inn South Hackensack,2.0,410 Rt 46 West I 80 Exit 64,South Hackensack,07606,NJ,5.0,Times Square,7.5 miles,$89,South Hackensack,40.85608,-74.04726,894631
+140911,Doxie Hotel,2.0,273 W 38th St,New York,10018,NY,6.4,Times Square,0.3 miles,$98,Garment District,40.754539,-73.991213,118524
+420542,Asiatic Hotel by LaGuardia Airport,2.0,135-21 37th Avenue,Flushing,11354,NY,8.2,Times Square,8.1 miles,$89,Flushing Chinatown,40.761134,-73.83228,5393483
+410422208,Rockaway Hotel Brooklyn,2.5,524 Rockaway Avenue,Brooklyn,11212,NY,4.6,Times Square,7.4 miles,$89,Brownsville,40.667121,-73.910374,12794444
+308872,The Jane Hotel,2.0,113 Jane St,New York,10014,NY,8.4,Times Square,1.8 miles,$89,West Village,40.738176,-74.009694,2256179
+326002,Jazz On The Park Hostel,2.0,36 West 106th Street,New York,10025,NY,4.8,Times Square,3.1 miles,$80,Manhattan Valley,40.7982,-73.96097,2906474
+539305,The Brooklyn,3.5,1199 Atlantic Avenue,Brooklyn,11216,NY,6.8,Times Square,5.7 miles,$89,Bedford-Stuyvesant,40.678664,-73.951221,11854835
+1127790976,Comfort Inn & Suites near JFK Air Train,2.5,144-15 Liberty Ave,Jamaica,11435,NY,7.2,Times Square,10 miles,$89,Queens,40.692921,-73.808686,35212218
+124451,SureStay Hotel by Best Western Secaucus Meadowlands,2.5,250 Harmon Meadow Boulevard,Secaucus,07094,NJ,8.2,Times Square,3.8 miles,$89,Secaucus,40.788251,-74.045855,14789
+614622112,John Hotel,2.5,133-12 37th Ave,Flushing,11354,NY,8.2,Times Square,7.9 miles,$89,Flushing Chinatown,40.76029,-73.83437,19175691

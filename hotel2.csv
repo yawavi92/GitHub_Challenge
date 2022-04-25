@@ -1,0 +1,26 @@
+id,hotel,starRating,address,locality,postalCode,region,rating,label,distance,price,neighbourhood,lat,lon,supplierHotelId
+650836736,Feather Factory,2.5,26-32 Skillman Ave,Long Island City,11101,NY,8.2,Times Square,2.5 miles,$70,Hunters Point,40.74404,-73.94099,20307398
+2355186048,Casa Azul Hotel Blu JFK,2.5,220-16 jamaica ave,Queens Village,11428,NY,6.2,Times Square,14 miles,$80,Queens,40.718859,-73.733699,73568314
+1044952832,Quality Inn,2.5,163-18 115th Ave,Jamaica,11434,NY,7.0,Times Square,12 miles,$80,Queens,40.687626,-73.784627,32623526
+712831552,The Gatsby Hotel,3.5,135 East Houston St,New York,10002,NY,7.0,Times Square,2.4 miles,$80,Bowery,40.72312,-73.99024,22244736
+216337,Howard Johnson by Wyndham North Bergen,2.0,1300 Tonnelle Ave,North Bergen,07047,NJ,5.8,Times Square,3.3 miles,$81,North Bergen,40.765792,-74.047456,967211
+224415,Super 8 by Wyndham Long Island City LGA Hotel,2.0,31-62 14th Street,Astoria,11106,NY,6.8,Times Square,2.8 miles,$82,Queens,40.766793,-73.933475,896387
+6295,The Manhattan at Times Square Hotel,4.0,790 7th Ave,New York,10019,NY,5.6,Times Square,0.4 miles,$82,Theater District,40.762045,-73.982587,7498
+1056651904,LeTap Hotel JFK Airport,3.5,139-01 Archer Ave,Jamaica,11435,NY,5.2,Times Square,10 miles,$82,Queens,40.69961,-73.811323,32989122
+446403,The Collective Paper Factory,4.0,37-06 36th street,Long Island City,11101,NY,8.0,Times Square,3.1 miles,$82,Queens,40.752717,-73.927418,6986420
+237872,Flushing Central Hotel,2.0,135-33 38th Avenue,Flushing,11354,NY,7.4,Times Square,8.1 miles,$84,Flushing Chinatown,40.760644,-73.831207,1357087
+1263761664,Kamway Lodge & Travel,2.0,40-36 77th St,Elmhurst,11373,NY,5.6,Times Square,5.2 miles,$83,Queens,40.746051,-73.888727,39461302
+222985,The Solita Soho Hotel,3.0,159 Grand St,New York,10013,NY,7.0,Times Square,2.7 miles,$89,Little Italy,40.719815,-73.998939,1107496
+266457,Windsor Hotel,2.0,108 Forsyth St,New York,10002,NY,5.4,Times Square,2.7 miles,$83,Bowery,40.71873,-73.99269,1178390
+2355088768,Hotel 369 Brooklyn,2.5,369 Glenmore Ave,Brooklyn,11207,NY,6.8,Times Square,7.5 miles,$84,East New York,40.673216,-73.897,73565274
+1064459840,"The L Hotel, Ascend Hotel Collection",2.5,135 32nd Street,Brooklyn,11232,NY,8.0,Times Square,7.0 miles,$84,Greenwood,40.65718,-74.002788,33233120
+446007,The Parc Hotel,2.5,3916 College Point Blvd,Flushing,11354,NY,7.6,Times Square,7.9 miles,$84,Flushing Chinatown,40.758423,-73.834368,6839377
+479845,The Paul Hotel NYC,4.0,32 West 29th Street,New York,10001,NY,7.0,Times Square,0.8 miles,$84,NoMad,40.746062,-73.989167,9272318
+639414720,Quality Inn near Sunset Park,2.5,4410 3rd Ave,Brooklyn,11220,NY,7.0,Times Square,7.5 miles,$84,Sunset Park,40.650907,-74.011492,19950460
+256601,Lex View Inn at JFK Airport,2.5,138 05 Jamaica Ave,Jamaica,11435,NY,4.4,Times Square,9.7 miles,$85,Queens,40.702502,-73.815059,1705822
+273442,Rodeway Inn Capri,2.0,1 Valley Road,Little Ferry,07643,NJ,6.0,Times Square,7.2 miles,$85,Little Ferry,40.854608,-74.033352,2223555
+1446779360,Surface Inn Brooklyn,2.5,120 Osborn Street,Brooklyn,11212,NY,6.2,Times Square,7.3 miles,$85,Brownsville,40.66941,-73.908823,45180605
+431319,Super 8 by Wyndham Jamaica North Conduit,2.0,15167 N Conduit Ave,Jamaica,11434,NY,5.6,Times Square,12 miles,$85,Rochdale,40.667373,-73.783373,6036585
+571541,The Park Ave North,3.0,65 East 129th Street,New York,10035,NY,7.4,Times Square,4.3 miles,$85,East Harlem,40.807801,-73.937651,13432719
+612705,The Nomad Suites & Apartments,3.5,38 W 31st Street,New York,10001,NY,6.4,Times Square,0.7 miles,$125,Koreatown,40.747542,-73.988336,15691811
+216344,Days Inn by Wyndham Ridgefield NJ,2.0,1085 US Highway 46 West,Ridgefield,07657,NJ,6.8,Times Square,6.1 miles,$89,Ridgefield,40.844329,-74.007598,966577
